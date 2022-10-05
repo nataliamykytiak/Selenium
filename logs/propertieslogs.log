@@ -1,0 +1,16 @@
+[INFO ] 2022-09-28 23:32:08.474 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:32:08.487 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:32:08.489 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:32:08.490 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-09-28 23:34:06.827 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:34:06.839 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:34:06.847 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:34:06.849 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-09-28 23:36:29.480 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:36:29.490 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:36:29.498 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:36:29.499 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-09-28 23:44:52.388 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:44:52.411 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:44:52.412 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:44:52.413 [main] Log4JDemo - This is a fatal message

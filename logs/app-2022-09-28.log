@@ -1,0 +1,8 @@
+[INFO ] 2022-09-28 23:46:07.381 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:46:07.397 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:46:07.398 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:46:07.401 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-09-28 23:48:01.543 [main] Log4JDemo - This is information message
+[ERROR] 2022-09-28 23:48:01.571 [main] Log4JDemo - This is an error message
+[WARN ] 2022-09-28 23:48:01.572 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-09-28 23:48:01.572 [main] Log4JDemo - This is a fatal message
